@@ -1,0 +1,4 @@
+"D:\PROGRAMY\CLion 2023.2.2\bin\cmake\win\x64\bin\cmake.exe" -DCMAKE_BUILD_TYPE=Debug "-DCMAKE_MAKE_PROGRAM=D:/PROGRAMY/CLion 2023.2.2/bin/ninja/win/x64/ninja.exe" -G Ninja -S "D:\VS\ZS 2024 - 2025\AZA\projekt_2" -B "D:\VS\ZS 2024 - 2025\AZA\projekt_2\cmake-build-debug"
+-- Configuring done (0.1s)
+-- Generating done (0.0s)
+-- Build files have been written to: D:/VS/ZS 2024 - 2025/AZA/projekt_2/cmake-build-debug
