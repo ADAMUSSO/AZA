@@ -1,0 +1,3 @@
+D:/VS/ZS 2024 - 2025/AZA/Projekt_4/cmake-build-debug/CMakeFiles/Projekt_4.dir
+D:/VS/ZS 2024 - 2025/AZA/Projekt_4/cmake-build-debug/CMakeFiles/edit_cache.dir
+D:/VS/ZS 2024 - 2025/AZA/Projekt_4/cmake-build-debug/CMakeFiles/rebuild_cache.dir
